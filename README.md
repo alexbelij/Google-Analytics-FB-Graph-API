@@ -12,11 +12,11 @@ Put the `Facebook` `access_token` in the `access_token` key present in `parseCre
 
 `Report.js` is the main file through which the function runs. 
 
-Note -> You can make your own report.js file, in which you have to do following things:
-        1: First Read about excel4node-npm module
-        2: Then Use it in report.js file
-        3: Require the other files, as you have seen that i have exported `arrayJson` from each file.
-        4: Write the required excel generation code and run node report.js.
+Note -> You can make your own report.js file, in which you have to do following things: <br /> 
+        1: First Read about excel4node-npm module<br /> 
+        2: Then Use it in report.js file<br /> 
+        3: Require the other files, as you have seen that i have exported `arrayJson` from each file.<br /> 
+        4: Write the required excel generation code and run node report.js.<br /> 
         
 Any comments and feedbacks are welcome, THANKS.
 
