@@ -1,7 +1,3 @@
-# Google-Analytics-FB-Graph-API
-I have used google analytics api and fb graph api to retrieve information about ADS Running on Google ADWORDS and FACEBOOK.
-
-
 CLONE the repository
 
 Put the `Google Analytics` `API` Credentials in `auth.json`
